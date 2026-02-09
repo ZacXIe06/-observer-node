@@ -1,0 +1,8 @@
+{
+  "name": "Observer Node: Rational Mapping",
+  "description": "A clinical logic engine that treats human input as stochastic biological noise and attempts to map it into mathematical and physical constants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
